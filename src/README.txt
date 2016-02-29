@@ -1,4 +1,4 @@
-Components of computer systems often have dependencies—other components that must be installed
+Components of computer systems often have dependencies — other components that must be installed
 before they will function properly. These dependencies are frequently shared by multiple components.
 
 For example, both the TELNET client program and the FTP client program require that the TCP/IP
@@ -95,7 +95,7 @@ INSTALL TELNET
 INSTALL foo
 	Installing foo
 REMOVE NETCARD
-NETCARD is still needed.
+	NETCARD is still needed.
 INSTALL BROWSER
 	Installing HTML
 	Installing BROWSER
